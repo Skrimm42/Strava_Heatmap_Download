@@ -2,8 +2,8 @@
 
 Download Strava Heatmap tiles for OsmAnd app.
 
-Login to https://strava.com/heatmap in Chrome browser and specify coordinates in WGS84 standard
-aka Google Maps coordinates, top-left and-bottom right points of the desired region.
+Login to https://strava.com/heatmap in Chrome browser. Run script and specify coordinates
+in WGS84 standard aka Google Maps coordinates, top-left and-bottom right points of the desired region.
 
 For example:
 Enter starting coordinates, Lat,Long 50.994544, 4.594678
